@@ -1,6 +1,8 @@
 # srt
 Repository for several node scripts to deal with SRT files (useful for fan-editing/adding subtitles to foreign shows, etc.).
-Best used in conjunction with Notepad++.
+Best used in conjunction with Notepad++. 
+
+Each tool has their own README, but here is a summary:
 
 ## srtConverter
 Use this once you've made a rough pass at creating an SRT file to match your video. This will let you adjust the times of lines of dialogue and keep everything in relation to each other.
